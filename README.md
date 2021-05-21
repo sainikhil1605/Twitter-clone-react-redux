@@ -1,5 +1,6 @@
 Install the Required packages by running
-###`npm install`
+
+### `npm install`
 
 ## Available Scripts
 
