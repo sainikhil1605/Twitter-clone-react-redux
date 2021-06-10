@@ -1,10 +1,9 @@
 Live demo => [https://twitter-nikhil.netlify.app/](https://twitter-nikhil.netlify.app/)\
+
+## Instructions to Run the App
 Install the Required packages by running
 
 ### `npm install`
-
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
