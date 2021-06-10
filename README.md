@@ -1,4 +1,4 @@
-Live demo => [https://twitter-nikhil.netlify.app/](https://twitter-nikhil.netlify.app/)\
+Live demo => [https://twitter-nikhil.netlify.app/](https://twitter-nikhil.netlify.app/)
 
 ## Instructions to Run the App
 Install the Required packages by running
